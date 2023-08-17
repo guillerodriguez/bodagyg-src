@@ -906,3 +906,30 @@ body.modal-open {
 .modal-body {
   padding:25px;
 }
+
+/* ==========================================================================
+G+G extras
+========================================================================== */
+.img-fw img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.bg-secondary {
+  background-color: #f8f9fd
+}
+
+h2, h3 {
+  margin-top: 40px;
+  margin-bottom: 25px;
+}
+
+section h3:first-of-type {
+  margin-top: 20px;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 6px;
+}
