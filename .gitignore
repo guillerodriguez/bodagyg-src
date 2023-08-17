@@ -36,3 +36,7 @@ typings/
 .env
 .sass-cache/
 *.css.map
+
+# Sources only
+*.min.js
+*.css
