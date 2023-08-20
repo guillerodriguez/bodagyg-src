@@ -116,12 +116,6 @@ Hero
     color: $txt-light;
     margin-bottom: 40px;
   }
-  p.intro {
-    color: $txt-light;
-    font-size: 20px;
-    font-weight: 300;
-    margin-bottom: 80px;
-  }
   .hero-content {
     padding-top: 40%;
   }
@@ -138,26 +132,6 @@ Hero
   bottom: 30px;
   left: 50%;
   transform: translateX(-50%);
-}
-
-/* ==========================================================================
-Intro
-========================================================================== */
-.intro span.icon {
-  font-size: 40px;
-  color: $accent-color;
-  font-weight: bold;
-}
-
-#intro {
-  padding-top: 40px;
-  img {
-    width: 100%;
-    height: auto;
-  }
-}
-#intro p {
-  text-align: center;
 }
 
 /* ==========================================================================
