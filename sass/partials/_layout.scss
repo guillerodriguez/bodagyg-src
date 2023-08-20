@@ -2,9 +2,21 @@
 
 $section-padding: 40px 0;
 
-section.rsvp {
-	background: $section-light;
+section, footer {
+	background-color: $section-light;
+	text-align: center;
 }
-section.events {
+
+#invitation,
+#events,
+#gifts,
+#rsvp {
+	padding-bottom: 40px;
+	border-bottom: 1px solid $keyline-color;
+}
+
+#invitation,
+#events,
+#rsvp {
 	background: $section-dark;
 }
