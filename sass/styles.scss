@@ -126,6 +126,18 @@ Hero
   }
 }
 
+@supports (-webkit-touch-callout: none) {
+  /* CSS specific to iOS devices
+   * https://stackoverflow.com/questions/30102792/css-media-query-to-target-only-ios-devices
+   */
+  .hero {
+    /* Mobile Safari "feature" (not a bug :)
+    * https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/
+    */
+    height: -webkit-fill-available;
+  }
+}
+
 .down-arrow {
   color: #fff;
   font-size: 30px;
