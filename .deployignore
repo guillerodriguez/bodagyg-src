@@ -1,0 +1,14 @@
+.git
+js/scripts.js
+node_modules
+sass
+src
+.deployignore
+.gitignore
+deploy.sh
+gulpfile.js
+LICENSE
+npmfile.js
+package*.json
+README.md
+.DS_Store
