@@ -211,3 +211,8 @@ h2 {
 .pt-30 {
   padding-top: 30px;
 }
+
+.youtube-video iframe,
+.google-map iframe {
+  max-width: 100%;
+}
