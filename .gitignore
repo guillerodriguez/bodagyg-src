@@ -38,5 +38,5 @@ typings/
 *.css.map
 
 # Sources only
-*.min.js
-*.css
+js/scripts.min.js
+css/styles.min.css
