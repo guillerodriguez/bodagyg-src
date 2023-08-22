@@ -124,6 +124,11 @@ Hero
     left: 0;
     right: 0;
     transform: translateY(-60%);
+
+    img {
+      width: 170px;
+      height: auto;
+    }
   }
 }
 
