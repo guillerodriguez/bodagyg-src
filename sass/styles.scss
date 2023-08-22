@@ -197,24 +197,21 @@ body.modal-open {
 /* ==========================================================================
 G+G extras
 ========================================================================== */
-.img-fw img {
+.img-fw {
   width: 100%;
   max-width: 100%;
   height: auto;
 }
 
 .img-header {
+  width: 480px;
+  max-width: 100%;
+  height: auto;
   padding-top: 1em;
   padding-bottom: 2em;
 }
 
-.img-header img {
-  width: 480px;
-  max-width: 100%;
-  height: auto;
-}
-
-.img-date img {
+.img-date {
   width: 320px;
   max-width: 100%;
   height: auto;
