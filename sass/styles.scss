@@ -127,14 +127,13 @@ Hero
   }
 }
 
-@supports (-webkit-touch-callout: none) {
-  /* CSS specific to iOS devices
-   * https://stackoverflow.com/questions/30102792/css-media-query-to-target-only-ios-devices
-   */
+@media (max-width: 480px) {
   .hero {
-    /* Mobile Safari "feature" (not a bug :)
-    * https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/
-    */
+    /* Fix for Mobile WebKit viewport size being actually < 100vh
+     * https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/
+     *
+     * Use only on Mobile, seems to breaks layout on desktop.
+     */
     height: -webkit-fill-available;
   }
 }
