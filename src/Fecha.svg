@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   sodipodi:docname="Fecha.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5144501"
+     inkscape:cx="337.74636"
+     inkscape:cy="564.23122"
+     inkscape:window-width="1965"
+     inkscape:window-height="786"
+     inkscape:window-x="606"
+     inkscape:window-y="83"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect217"
+       style="fill:#dedec3;fill-opacity:1;stroke-width:0.1;stroke-linecap:round"
+       d="m 61.133217,106.34193 h 20.989424 v 21.04112 H 61.133217 Z"
+       inkscape:export-filename="date.png"
+       inkscape:export-xdpi="201.52687"
+       inkscape:export-ydpi="201.52687" />
+    <rect
+       style="fill:#dedec3;stroke-width:0.1;stroke-linecap:round;fill-opacity:1"
+       id="rect217-35"
+       width="18.836992"
+       height="21.041122"
+       x="84.691971"
+       y="106.34193" />
+    <rect
+       style="fill:#dedec3;stroke-width:0.1;stroke-linecap:round;fill-opacity:1"
+       id="rect217-35-6"
+       width="35.699097"
+       height="21.041122"
+       x="106.0983"
+       y="106.34193" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="63.655365"
+       y="123.77695"
+       id="text113-7"><tspan
+         sodipodi:role="line"
+         id="tspan111-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';stroke-width:0.264583"
+         x="63.655365"
+         y="123.77695">04  11  2023</tspan></text>
+  </g>
+</svg>
