@@ -38,7 +38,7 @@ a:hover, a:focus {
 }
 body {
   font-family: $sans-serif;
-  font-weight: $light;
+  /*font-weight: $light;*/
   color: $txt-primary;
   -webkit-text-size-adjust: 100%;
   //fix for iOS
@@ -103,6 +103,7 @@ Hero
 .hero {
   height: 100vh;
   min-height: 400px;
+  max-height: 750px;
   background: url('../img/hero-min.jpg') center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -211,6 +212,17 @@ G+G extras
   width: 480px;
   max-width: 100%;
   height: auto;
+}
+
+.img-date img {
+  width: 320px;
+  max-width: 100%;
+  height: auto;
+  padding: 2em 0;
+}
+
+#add-to-cal {
+  padding-bottom: 2em;
 }
 
 h2 {

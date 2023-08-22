@@ -3,7 +3,6 @@
 $section-padding: 40px 0;
 
 section, footer {
-	background-color: $section-light;
 	text-align: center;
 }
 
@@ -11,11 +10,13 @@ section, footer {
 #events,
 #gifts,
 #rsvp {
-	padding-bottom: 20px;
-	border-bottom: 1px solid $keyline-color;
+	background-color: $section-light;
+	padding-bottom: 40px;
 }
 
-#events,
-#rsvp {
+footer
+{
+	border-top: 1px solid $keyline-color;
 	background: $section-dark;
+	padding-bottom: 50px;
 }
